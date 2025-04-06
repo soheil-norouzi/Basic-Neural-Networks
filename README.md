@@ -19,4 +19,4 @@ This project implements a simple **Hebbian Neural Network** to recognize 'X' and
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[YourUsername]/hebb-network-pattern-recognizer.git
+   git clone https://github.com/soheil-norouzi/Hebb-Network-Pattern-Recognizer.git
