@@ -19,7 +19,7 @@ This project implements a simple **Hebbian Neural Network** to recognize 'X' and
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/soheil-norouzi/Hebb-Network-Pattern-Recognizer.git
+   git clone https://github.com/soheil-norouzi/Basic-Neural-Networks-Pattern-Recognizer.git
 
 
 # Binary Perceptron Pattern Recognizer
@@ -43,4 +43,4 @@ This project implements a **Binary Perceptron** to classify 'X' and 'O' patterns
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/soheil-norouzi/Hebb-Network-Pattern-Recognizer.git
+   git clone https://github.com/soheil-norouzi/Basic-Neural-Networks-Pattern-Recognizer.git
