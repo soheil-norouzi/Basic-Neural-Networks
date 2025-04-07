@@ -21,7 +21,6 @@ This project implements a simple **Hebbian Neural Network** to recognize 'X' and
    ```bash
    git clone https://github.com/soheil-norouzi/Hebb-Network-Pattern-Recognizer.git
 
-### 2. README for Binary Perceptron Version
 
 # Binary Perceptron Pattern Recognizer
 
