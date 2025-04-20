@@ -68,3 +68,27 @@ This project implements a **Multi-Category Perceptron** to classify multiple pat
 1. Clone this repository:
    ```bash
    git clone https://github.com/soheil-norouzi/Basic-Neural-Networks-Pattern-Recognizer.git
+
+# ADALINE Pattern Recognizer
+This project implements an **Adaptive Linear Neuron (ADALINE) network** to classify 'X' and 'O' patterns drawn on a 5x5 grid using a Tkinter-based graphical user interface (GUI). ADALINE uses gradient descent to minimize the mean squared error, offering a robust approach to binary pattern recognition.
+
+## Features
+Draw Patterns: Click cells on a 5x5 grid to toggle between white (-1) and black (1) to create patterns.
+Train: Teach the network to recognize 'X' or 'O' patterns.
+Predict: Classify new patterns as 'X' or 'O'.
+Clear: Reset the grid to start fresh.
+
+## How It Works
+**AD ADALINE Learning: The network uses a weight vector and bias, updated via gradient descent to minimize the error between the linear output and target values (1 for 'X', -1 for 'O').
+Prediction: Computes a weighted sum of the input pattern plus bias, then applies a threshold to classify as 'X' or 'O'.
+
+## Requirements
+Python 3.x
+Libraries:
+numpy
+tkinter (included with standard Python)
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/soheil-norouzi/Basic-Neural-Networks-Pattern-Recognizer.git
